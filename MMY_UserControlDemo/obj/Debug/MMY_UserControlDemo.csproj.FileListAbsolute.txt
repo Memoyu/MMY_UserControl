@@ -1,0 +1,9 @@
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.csprojAssemblyReference.cache
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.Properties.Resources.resources
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.csproj.GenerateResource.cache
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\bin\Debug\MMY_UserControlDemo.exe.config
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\bin\Debug\MMY_UserControlDemo.exe
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\bin\Debug\MMY_UserControlDemo.pdb
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.exe
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.pdb
+D:\VS_Project\C#Project\MMY_UserControlDemo\MMY_UserControlDemo\obj\Debug\MMY_UserControlDemo.Form1.resources
